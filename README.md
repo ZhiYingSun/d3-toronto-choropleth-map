@@ -1,2 +1,2 @@
 # d3-toronto-choropleth-map
-map using d3.js and react
+feel free to use it for your project!
